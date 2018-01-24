@@ -1,0 +1,1 @@
+chuck src/initialize.ck src/rec-auto.ck
